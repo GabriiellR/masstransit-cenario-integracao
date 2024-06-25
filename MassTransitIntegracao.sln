@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intranet", "Intranet\Intranet.csproj", "{2E2F9302-9323-4F75-B132-6933CBA886C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benner", "Benner\Benner.csproj", "{53F376A8-2F2A-4770-AA64-54D775DDBCE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2F9302-9323-4F75-B132-6933CBA886C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2F9302-9323-4F75-B132-6933CBA886C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2F9302-9323-4F75-B132-6933CBA886C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2F9302-9323-4F75-B132-6933CBA886C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F376A8-2F2A-4770-AA64-54D775DDBCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F376A8-2F2A-4770-AA64-54D775DDBCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F376A8-2F2A-4770-AA64-54D775DDBCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F376A8-2F2A-4770-AA64-54D775DDBCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {445887A4-03C6-4A0E-87AE-CAC209163989}
+	EndGlobalSection
+EndGlobal
