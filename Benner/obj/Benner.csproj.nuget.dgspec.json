@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\informatica04\\source\\repos\\MassTransitIntegracao\\Benner\\Benner.csproj": {}
+    "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Benner\\Benner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\informatica04\\source\\repos\\MassTransitIntegracao\\Benner\\Benner.csproj": {
+    "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Benner\\Benner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\informatica04\\source\\repos\\MassTransitIntegracao\\Benner\\Benner.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Benner\\Benner.csproj",
         "projectName": "Benner",
-        "projectPath": "C:\\Users\\informatica04\\source\\repos\\MassTransitIntegracao\\Benner\\Benner.csproj",
-        "packagesPath": "C:\\Users\\informatica04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\informatica04\\source\\repos\\MassTransitIntegracao\\Benner\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Benner\\Benner.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Benner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\informatica04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gabriel Dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
