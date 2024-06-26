@@ -1,0 +1,12 @@
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Debug\net7.0\IMessageContratos.deps.json
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Debug\net7.0\IMessageContratos.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Debug\net7.0\IMessageContratos.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.csproj.AssemblyReference.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.AssemblyInfo.cs
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\refint\IMessageContratos.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\IMessageContratos.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\ref\IMessageContratos.dll

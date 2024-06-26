@@ -405,6 +405,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Messages.dll": {}
+        }
       }
     }
   },
@@ -1167,6 +1177,11 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Messages/1.0.0": {
+      "type": "project",
+      "path": "../Messages/Messages.csproj",
+      "msbuildProject": "../Messages/Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1174,6 +1189,7 @@
       "MassTransit >= 8.2.3",
       "MassTransit.AspNetCore >= 7.3.1",
       "MassTransit.RabbitMQ >= 8.2.3",
+      "Messages >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -1204,7 +1220,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages.csproj": {
+              "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

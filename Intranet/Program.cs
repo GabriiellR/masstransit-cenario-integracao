@@ -15,16 +15,17 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddMassTransit(x =>
 {
-    x.AddConsumer<CentroCustoConsumer>();
+    x.AddConsumer<DeleteCentroCustoConsumer>();
 
     x.UsingRabbitMq((context, cfg) =>
     {
         cfg.Host(builder.Configuration.GetConnectionString("RabbitMq"));
 
-        cfg.ReceiveEndpoint("atualizar-centro-custo", e =>
+        cfg.ReceiveEndpoint("Delete", e =>
         {
             e.UseMessageRetry(r => r.Interval(2, 100));
-            e.ConfigureConsumer<CentroCustoConsumer>(context);
+            e.ConfigureConsumer<DeleteCentroCustoConsumer>(context);
+            e.UseJsonSerializer();
         });
     });
 });

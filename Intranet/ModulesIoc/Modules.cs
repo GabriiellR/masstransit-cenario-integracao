@@ -1,4 +1,9 @@
-﻿namespace Intranet.ModulesIoc
+﻿using Intranet.Application;
+using Intranet.Application.Interfaces;
+using Intranet.Repository;
+using Intranet.Repository.Interface;
+
+namespace Intranet.ModulesIoc
 {
     public static class Modules
     {
@@ -13,11 +18,12 @@
 
         private static void RegisterSingleton(IServiceCollection service)
         {
+            service.AddSingleton<IRepositoryCentroCusto, RepositoryCentroCusto>();
         }
 
         private static void RegisterScoped(IServiceCollection service)
         {
-            
+            service.AddScoped<IApplicationServiceCentroCusto, ApplicationServiceCentroCusto>();
         }
     }
 }

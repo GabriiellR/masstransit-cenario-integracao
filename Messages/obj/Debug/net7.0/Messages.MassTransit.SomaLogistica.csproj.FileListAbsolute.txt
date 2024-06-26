@@ -1,0 +1,12 @@
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Debug\net7.0\Messages.MassTransit.SomaLogistica.deps.json
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Debug\net7.0\Messages.MassTransit.SomaLogistica.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Debug\net7.0\Messages.MassTransit.SomaLogistica.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.csproj.AssemblyReference.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.AssemblyInfo.cs
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\refint\Messages.MassTransit.SomaLogistica.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\Messages.MassTransit.SomaLogistica.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Debug\net7.0\ref\Messages.MassTransit.SomaLogistica.dll

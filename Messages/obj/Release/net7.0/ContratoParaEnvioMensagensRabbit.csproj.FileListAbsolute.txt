@@ -1,0 +1,12 @@
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Release\net7.0\ContratoParaEnvioMensagensRabbit.deps.json
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Release\net7.0\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\bin\Release\net7.0\ContratoParaEnvioMensagensRabbit.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.csproj.AssemblyReference.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.AssemblyInfo.cs
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\refint\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ContratoParaEnvioMensagensRabbit.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Messages\obj\Release\net7.0\ref\ContratoParaEnvioMensagensRabbit.dll
