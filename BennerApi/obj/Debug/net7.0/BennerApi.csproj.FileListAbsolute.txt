@@ -38,3 +38,43 @@ C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\B
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\BennerApi.genruntimeconfig.cache
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\ref\BennerApi.dll
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\bin\Debug\net7.0\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\appsettings.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\BennerApi.exe
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\BennerApi.deps.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\BennerApi.runtimeconfig.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\BennerApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\BennerApi.pdb
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\MassTransit.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.csproj.AssemblyReference.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.AssemblyInfoInputs.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.AssemblyInfo.cs
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.csproj.CoreCompileInputs.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets\msbuild.BennerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BennerApi.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BennerApi.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BennerApi.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\scopedcss\bundle\BennerApi.styles.css
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.csproj.CopyComplete
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\refint\BennerApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.pdb
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\BennerApi.genruntimeconfig.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\BennerApi\obj\Debug\net7.0\ref\BennerApi.dll

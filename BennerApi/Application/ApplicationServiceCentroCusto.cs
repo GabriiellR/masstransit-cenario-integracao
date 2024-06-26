@@ -2,7 +2,6 @@
 using BennerApi.CrossCutting;
 using BennerApi.Models;
 using BennerApi.Repository.Interfaces;
-using MassTransit;
 
 namespace BennerApi.Application
 {
@@ -34,12 +33,22 @@ namespace BennerApi.Application
 
         public async Task<CentroCusto> Post(CentroCusto centroCusto)
         {
-            return _repositoryCentroCusto.Post(centroCusto);
+            var centroCustoCriado = _repositoryCentroCusto.Post(centroCusto);
+
+            var fila = Enum.GetName(typeof(FilasEnum), FilasEnum.Create).ToString();
+            _applicationServicePublisher.EnviarModificacaoCentroCusto(centroCustoCriado, fila);
+
+            return centroCusto;
         }
 
         public async Task<CentroCusto> Update(CentroCusto centroCusto)
         {
-            return _repositoryCentroCusto.Update(centroCusto);
+            var centroCustoAtualizado =  _repositoryCentroCusto.Update(centroCusto);
+
+            var fila = Enum.GetName(typeof(FilasEnum), FilasEnum.Update).ToString();
+            _applicationServicePublisher.EnviarModificacaoCentroCusto(centroCustoAtualizado, fila);
+
+            return centroCustoAtualizado;
         }
     }
 }

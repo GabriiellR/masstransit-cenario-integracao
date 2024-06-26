@@ -77,3 +77,43 @@ C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Intranet\obj\Debug\net7.0\In
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Intranet\obj\Debug\net7.0\Intranet.genruntimeconfig.cache
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Intranet\obj\Debug\net7.0\ref\Intranet.dll
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\Intranet\bin\Debug\net7.0\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\appsettings.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Intranet.exe
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Intranet.deps.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Intranet.runtimeconfig.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Intranet.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Intranet.pdb
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\ContratoParaEnvioMensagensRabbit.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\MassTransit.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.csproj.AssemblyReference.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.AssemblyInfoInputs.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.AssemblyInfo.cs
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.csproj.CoreCompileInputs.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets\msbuild.Intranet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets\msbuild.build.Intranet.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Intranet.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Intranet.props
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\scopedcss\bundle\Intranet.styles.css
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.csproj.CopyComplete
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\refint\Intranet.dll
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.pdb
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\Intranet.genruntimeconfig.cache
+C:\Users\informatica04\Desktop\masstransit-cenario-integracao\Intranet\obj\Debug\net7.0\ref\Intranet.dll

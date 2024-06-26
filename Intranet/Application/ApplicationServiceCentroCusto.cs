@@ -22,5 +22,15 @@ namespace Intranet.Application
         {
             return _repositoryCentroCusto.GetAll();
         }
+
+        public CentroCusto Post(CentroCusto centroCusto)
+        {
+            return _repositoryCentroCusto.Post(centroCusto);
+        }
+
+        public CentroCusto Update(CentroCusto centroCusto)
+        {
+            return _repositoryCentroCusto.Update(centroCusto);
+        }
     }
 }

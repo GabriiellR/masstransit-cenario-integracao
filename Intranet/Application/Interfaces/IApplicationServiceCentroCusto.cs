@@ -6,5 +6,7 @@ namespace Intranet.Application.Interfaces
     {
         List<CentroCusto> GetAll();
         CentroCusto Delete(string estrutura);
+        CentroCusto Post(CentroCusto centroCusto);
+        CentroCusto Update(CentroCusto centroCusto);
     }
 }

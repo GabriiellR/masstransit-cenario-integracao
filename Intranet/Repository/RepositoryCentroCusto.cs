@@ -26,6 +26,26 @@ namespace Intranet.Repository
             return _centroCusto;
         }
 
+        public CentroCusto Post(CentroCusto centroCusto)
+        {
+            _centroCusto.Add(centroCusto);
+            return centroCusto;
+        }
+
+        public CentroCusto Update(CentroCusto centroCusto)
+        {
+            var centroCustoParaAtualizar = GetByEstrutura(centroCusto.Estrutura);
+
+            if (centroCustoParaAtualizar is null)
+                throw new Exception("Centro de custo inexistente");
+
+            centroCustoParaAtualizar.Nome = centroCusto.Nome;
+            centroCustoParaAtualizar.Ativo = centroCusto.Ativo;
+            centroCustoParaAtualizar.BennerId = centroCusto.BennerId;
+
+            return centroCustoParaAtualizar;
+        }
+
         CentroCusto GetByEstrutura(string estrutura)
         {
             return _centroCusto.FirstOrDefault(prop => prop.Estrutura.Equals(estrutura));
