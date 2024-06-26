@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "ContratoParaEnvioMensagensRabbit/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/ContratoParaEnvioMensagensRabbit.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/ContratoParaEnvioMensagensRabbit.dll": {}
+        }
+      },
       "MassTransit/8.2.3": {
         "type": "package",
         "dependencies": {
@@ -405,20 +414,22 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
-      },
-      "Messages/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Messages.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Messages.dll": {}
-        }
       }
     }
   },
   "libraries": {
+    "ContratoParaEnvioMensagensRabbit/1.0.0": {
+      "sha512": "LjtryDkVcLfE7ZUYb5WyTtnNN40zrXQ8WTsegogC+SlJ1SGe3ifxSFRqS39H3kpUINq7qTFD1Vj+buj0w4Ss4g==",
+      "type": "package",
+      "path": "contratoparaenviomensagensrabbit/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "contratoparaenviomensagensrabbit.1.0.0.nupkg.sha512",
+        "contratoparaenviomensagensrabbit.nuspec",
+        "lib/net7.0/ContratoParaEnvioMensagensRabbit.dll"
+      ]
+    },
     "MassTransit/8.2.3": {
       "sha512": "gh6xXWOs/dTVQsJF+40bMKNYxNr915GuyF9goi+Fa+EMLbeVxTVXBXV+h5WlGm0S4yaX0qLGEKSPPcCzYCvFLg==",
       "type": "package",
@@ -1168,19 +1179,14 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Messages/1.0.0": {
-      "type": "project",
-      "path": "../Messages/Messages.csproj",
-      "msbuildProject": "../Messages/Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ContratoParaEnvioMensagensRabbit >= 1.0.0",
       "MassTransit >= 8.2.3",
       "MassTransit.AspNetCore >= 7.3.1",
       "MassTransit.RabbitMQ >= 8.2.3",
-      "Messages >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.4",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -1211,11 +1217,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages.csproj": {
-              "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -1228,6 +1230,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "ContratoParaEnvioMensagensRabbit": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "MassTransit": {
             "target": "Package",
             "version": "[8.2.3, )"

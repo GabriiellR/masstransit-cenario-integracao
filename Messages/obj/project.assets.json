@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages.csproj",
-      "projectName": "Messages",
-      "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages2.csproj",
+      "projectName": "Messages2",
+      "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages2.csproj",
       "packagesPath": "C:\\Users\\Gabriel Dias\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\obj\\",
       "projectStyle": "PackageReference",

@@ -4,16 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intranet", "Intranet\Intranet.csproj", "{2E2F9302-9323-4F75-B132-6933CBA886C8}"
-	ProjectSection(ProjectDependencies) = postProject
-		{39985315-9962-49C9-A6FB-BA97FDE055EE} = {39985315-9962-49C9-A6FB-BA97FDE055EE}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BennerApi", "BennerApi\BennerApi.csproj", "{0CE03427-C626-435E-BA91-D4DB33C1B85B}"
-	ProjectSection(ProjectDependencies) = postProject
-		{39985315-9962-49C9-A6FB-BA97FDE055EE} = {39985315-9962-49C9-A6FB-BA97FDE055EE}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{39985315-9962-49C9-A6FB-BA97FDE055EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +21,6 @@ Global
 		{0CE03427-C626-435E-BA91-D4DB33C1B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE03427-C626-435E-BA91-D4DB33C1B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE03427-C626-435E-BA91-D4DB33C1B85B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{39985315-9962-49C9-A6FB-BA97FDE055EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{39985315-9962-49C9-A6FB-BA97FDE055EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{39985315-9962-49C9-A6FB-BA97FDE055EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{39985315-9962-49C9-A6FB-BA97FDE055EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

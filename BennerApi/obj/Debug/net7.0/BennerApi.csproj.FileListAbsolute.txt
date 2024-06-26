@@ -37,5 +37,4 @@ C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\r
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\BennerApi.pdb
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\BennerApi.genruntimeconfig.cache
 C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\obj\Debug\net7.0\ref\BennerApi.dll
-C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\bin\Debug\net7.0\Messages.dll
-C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\bin\Debug\net7.0\Messages.pdb
+C:\Users\Gabriel Dias\Desktop\MassTransitIntegracao\BennerApi\bin\Debug\net7.0\ContratoParaEnvioMensagensRabbit.dll

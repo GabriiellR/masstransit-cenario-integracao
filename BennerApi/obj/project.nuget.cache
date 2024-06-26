@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GpSdzbooyLE/pnvH1iw7eJLQL4m2eP/Gjvp97GK1psCadme16tSzyFNJ67mrqDmtMnz4T2MdnUDOmwqWgnLWSQ==",
+  "dgSpecHash": "rgcO7bAyBKzj78S9+2DRtLqRFaxhUr4oRSFTv3Zf50cj8V/HmelU1SZZt2nLi7JdNblIhZux4PI0ldwgRRh2DA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\BennerApi\\BennerApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Dias\\.nuget\\packages\\contratoparaenviomensagensrabbit\\1.0.0\\contratoparaenviomensagensrabbit.1.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Dias\\.nuget\\packages\\masstransit\\8.2.3\\masstransit.8.2.3.nupkg.sha512",
     "C:\\Users\\Gabriel Dias\\.nuget\\packages\\masstransit.abstractions\\8.2.3\\masstransit.abstractions.8.2.3.nupkg.sha512",
     "C:\\Users\\Gabriel Dias\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",

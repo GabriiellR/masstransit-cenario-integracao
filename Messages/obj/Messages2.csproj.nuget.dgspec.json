@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Intranet\\Intranet.csproj": {}
+    "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Intranet\\Intranet.csproj": {
+    "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Intranet\\Intranet.csproj",
-        "projectName": "Intranet",
-        "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Intranet\\Intranet.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages2.csproj",
+        "projectName": "Messages2",
+        "projectPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\Messages2.csproj",
         "packagesPath": "C:\\Users\\Gabriel Dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Intranet\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel Dias\\Desktop\\MassTransitIntegracao\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel Dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,32 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "ContratoParaEnvioMensagensRabbit": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "MassTransit": {
-              "target": "Package",
-              "version": "[8.2.3, )"
-            },
-            "MassTransit.AspNetCore": {
-              "target": "Package",
-              "version": "[7.3.1, )"
-            },
-            "MassTransit.RabbitMQ": {
-              "target": "Package",
-              "version": "[8.2.3, )"
-            },
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -77,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
